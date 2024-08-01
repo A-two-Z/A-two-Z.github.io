@@ -10,7 +10,7 @@ author: NurungjiBurger
 
 ---
 
-![WearOS](./2024-07-21-WearOS-MQTT/WearOS.png)
+![WearOS](/assets/images/2024-07-21-WearOS-MQTT/WearOS.png)
 
 스마트 물류 자동화 프로젝트 물?류에서 Wear OS기반으로 스마트워치에 MQTT 통신으로 알람 및 작업 목록을 보여주는 앱을 개발하고 있습니다.
 
@@ -28,7 +28,7 @@ MQTT는 클라이언트-서버의 구조로 통신이 이루어지는 형태가 
 
 **Broker**는 이들을 중계하며 하나의 Topic에 대해 여러 Subscriber가 있을 수 있어 1:N 통신에도 유용합니다.
 
-![MQTT](./2024-07-21-WearOS-MQTT/MQTT.png)
+![MQTT](/assets/images/2024-07-21-WearOS-MQTT/MQTT.png)
 
 # MQTT 사용하기
 
