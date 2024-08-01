@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--post  content  typeset">
+
+    <h1>{{ page.name }}</h1>
+    <h4>Username: <a href="https://github.com/{{ page.username }}">{{ page.username }}</a></h4>
+    <h4>Position: {{ page.position }}</h4>
+    <p>
+      {{ content }}
+    </p>
+    <h6>Posts</h6>
+      <ul>
+        {% assign filtered_posts = site.posts | where: 'author', page.username %}
+        {% for post in filtered_posts %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+  </article>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}
+
