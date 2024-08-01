@@ -3,6 +3,7 @@ title: Wear OS 에서 MQTT 통신하기
 categories:
 - Wear OS
 - MQTT
+feature_text: "Wear OS 애플리케이션에 MQTT를 적용해보자!"
 feature_image: "https://picsum.photos/2560/600?image=872"
 author: NurungjiBurger
 ---
