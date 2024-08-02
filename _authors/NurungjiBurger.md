@@ -11,7 +11,6 @@ feature_image: "https://avatars.githubusercontent.com/u/44452761?v=4"
 # 역할 및 업무
 
 ## FrontEnd Developer
-# Application
 - **Wear OS Application (Employee's Device)**: 프로젝트의 효율적인 진행을 위해 Employee용 Wear OS를 활용한 애플리케이션을 제작하고 있습니다.
 - **MQTT 통신 개발**: IoT 디바이스 간의 메시지 통신을 위해 안정적이고 효율적인 MQTT 통신을 개발하고 있습니다.
 - **Unity (Digital Twin)**: 전체적인 프로젝트를 관찰, 체크 할 수 있는 Administor용 Unity 애플리케이션을 제작하고 있습니다.
