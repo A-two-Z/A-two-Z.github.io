@@ -2,7 +2,7 @@
 username: NurungjiBurger
 name: SangBin Park
 position: FrontEnd Developer
-feature_image: "https://avatars.githubusercontent.com/u/44691277?v=4"
+feature_image: "https://avatars.githubusercontent.com/u/44452761?v=4"
 ---
 
 # 자기소개
