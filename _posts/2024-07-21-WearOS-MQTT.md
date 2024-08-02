@@ -17,6 +17,8 @@ author: NurungjiBurger
 
 Wear OS에 MQTT를 적용하는 글이 별로 없어 진행하면서 겪었던 과정을 소개하고자 합니다.
 
+<!-- more -->
+
 # MQTT란 ?
 
 ---
