@@ -2,7 +2,8 @@
 title: Wear OS 에서 dotenv 파일 및 내부 DB 활용하기
 categories:
 - Wear OS
-- MQTT
+- dotenv
+- DB
 feature_text: "Wear OS 애플리케이션에 보안성과 안정성 보장!"
 feature_image: "https://picsum.photos/2560/600?image=872"
 author: NurungjiBurger
