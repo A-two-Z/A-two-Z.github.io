@@ -103,7 +103,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: ko-KR # Set the site language
 title: "Mul?Ryu" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Tech Blog for Mul?Ryu Project" # Site description and default description, also used in jekyll-seo-tag
 url: "https://mul-ryu.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/Mul-Ryu/mul-ryu.github.io"
@@ -141,8 +141,8 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Created by swthewhite
-  url: https://github.com/swthewhite
+- title: Created by AtwoZ
+  url: https://github.com/Mul-Ryu
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/swthewhite
