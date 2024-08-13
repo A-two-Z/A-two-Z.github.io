@@ -2,11 +2,11 @@
 username: YunJiUk
 name: Yun JiUk
 position: Embedded Engineer, Hardware Fabrication
-feature_image: 
+feature_image: "https://avatars.githubusercontent.com/u/117324719?v=4"
 ---
 
 # 자기소개
-안녕하세요, 저는 물?류 프로젝트에서 Hardware Fabrication, Embedded Engineer 역할을 담당하고 있는 Seungwoo Baek입니다.
+안녕하세요, 저는 물?류 프로젝트에서 Hardware Fabrication, Embedded Engineer 역할을 담당하고 있는 Yun JiUk입니다.
 
 # 역할 및 업무
 
@@ -17,7 +17,7 @@ feature_image:
 
 ## Embedded Engineer
 - **Ros 보조**: ROS2가 잘 작동할 수 있도록 ROS2와 협력하여 코드를 수정하고 하드웨어적 개선방향을 구상.
-- **MQTT 통신**: Wear os와 협력하여 MQTT 프로토콜을 활용하여 Smart Watch로 로봇을 제어 할 수 있도록 함
+- **MQTT 통신**: Wear OS와 협력하여 MQTT 프로토콜을 활용하여 Smart Watch로 로봇을 제어 할 수 있도록 함
 
 # 기술 스택
 - **프로젝트 관리**: Jira, Notion, Slack
