@@ -7,7 +7,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "This Tech Blog is for Mul?Ryu Project.
 It is using [Alembic Jekyll Theme](https://github.com/daviddarnes/alembic)."
 ---
-# [Mul?Ryu Tech Blog](https://mul-ryu.github.io/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
 ⚗ Tech Blog for Mul?Ryu.
